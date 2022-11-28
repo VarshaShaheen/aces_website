@@ -33,9 +33,7 @@ h1, h2, h3, h4, h5, h6 {
     background: url(https://freemaninstitute.com/EarthAtNight-Best.gif);
     border-radius: 100%;
     background-size: 380px;
-    animation: spin 3.5s infinite linear;
-    box-shadow: 16px 0 40px 6px rgb(0, 0, 0),
-     -3px 0 6px 2px rgba(255, 255, 255, 0.2);}
+    animation: spin 3.5s infinite linear;}
 
 @keyframes spin {
     0% {
